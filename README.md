@@ -1,0 +1,1 @@
+This is a collection of projects that I've made while learning Machine Learning. It consists of small,easy and beginner-friendly projects for ML using different models such a Logistic Regression, Random Forest, SVM etc.
